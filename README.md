@@ -1,3 +1,3 @@
 # payment-manager
-#installation
+# installation
 <code>npm install</code>
