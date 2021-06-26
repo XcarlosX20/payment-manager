@@ -1,3 +1,3 @@
 # payment-manager
 # installation
-<code>npm install</code>
+<code>yarn install</code>
