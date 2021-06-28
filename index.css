@@ -1,0 +1,30 @@
+html{
+  width: 100%;
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+*,*:before, *:after{
+  box-sizing: inherit;
+}
+body {
+  background-color: #FFF;
+  font-size: 1.6rem;
+}
+h2{
+  padding: 1rem;
+  font-size: 2rem;
+  text-align: center;
+  
+}
+.pending-container{
+ text-align: center;
+}
+.completed-container{
+  text-align: center;
+}
+.pending-container table{
+  background-color: rgb(253, 244, 158);
+}
+.completed-container table{
+  background-color: rgba(156, 255, 8, 0.63);
+}
